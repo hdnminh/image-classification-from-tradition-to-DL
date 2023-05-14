@@ -17,6 +17,6 @@
 
 **Phần 9**: Khắc phục bằng việc dùng hàm khởi tạo mạnh hơn: He Initialization.
 
-Phần 10: Khắc phục bằng việc dùng Batch Normalization.
+**Phần 10:** Khắc phục bằng việc dùng Batch Normalization.
 
-Phần 11: Khắc phục bằng việc dùng Skip Connection.
+**Phần 11:** Khắc phục bằng việc dùng Skip Connection.
